@@ -24,7 +24,7 @@ function App() {
       <BrowserRouter>
         <Navbar
           title="TextUtils"
-          aboutText="About Us"
+          aboutText="About-Us"
           mode={mode}
           toggleMode={toggleMode}
         />
